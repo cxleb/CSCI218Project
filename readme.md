@@ -1,7 +1,7 @@
 ## CSCI218 Group Project
 
 This repository contains all Jupiter notebooks used for our CSCI218 Group Project.
-| Group Members | Student ID |
+| Group Member | Student ID |
 | --- | --- |
 | Anh Quan Tran | 7236475 |
 | Huu Khang Nguyen | 7402909 |
